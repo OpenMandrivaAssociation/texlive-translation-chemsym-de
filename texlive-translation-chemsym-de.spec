@@ -35,3 +35,16 @@ This is a "translation" of the chemsym documentation.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 20110901-2
++ Revision: 757080
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20110901-1
++ Revision: 719795
+- texlive-translation-chemsym-de
+- texlive-translation-chemsym-de
+- texlive-translation-chemsym-de
+
