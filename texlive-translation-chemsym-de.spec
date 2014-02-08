@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-translation-chemsym-de
 Version:	20110901
-Release:	2
+Release:	3
 Summary:	German version of chemsym
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/translations/chemsym/de
