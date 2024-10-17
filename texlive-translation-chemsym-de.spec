@@ -3,7 +3,7 @@ Version:	23804
 Release:	2
 Summary:	German version of chemsym
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/info/translations/chemsym/de
+URL:		https://www.ctan.org/tex-archive/info/translations/chemsym/de
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/translation-chemsym-de.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/translation-chemsym-de.doc.r%{version}.tar.xz
